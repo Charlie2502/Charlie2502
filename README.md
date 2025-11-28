@@ -1,5 +1,5 @@
-- 👋 Im Charlie Sell
-- 🖥️ I’m a Network & Software Developer
+- 👋 I'm Carlos (Charlie) Sell Sáenz
+- 🖥️ I'm a Network & Software Developer
 - 🏫 Bsc in Computer Engineering & Technical Degree in Network Troubleshooting and IT Support
 - 🎮 Currently undergoing VideoGame Development courses (as a hobby)
 
