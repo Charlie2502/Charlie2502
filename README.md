@@ -1,8 +1,7 @@
 - 👋 Im Charlie Sell
-- 🏫 I’m currently studying Computer Engineering at ULACIT 🇨🇷
-- 🖥️ Looking forward to getting a degree in Cybersecurity
+- 🖥️ I’m a Network & Software Developer
+- 🏫 Bsc in Computer Engineering & Technical Degree in Network Troubleshooting and IT Support
 - 🎮 Currently undergoing VideoGame Development courses (as a hobby)
-- 📫 I'm on Instagram as @charlie.sell25
 
 <!---
 Charlie2502/Charlie2502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
